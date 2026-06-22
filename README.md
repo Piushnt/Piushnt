@@ -43,10 +43,8 @@ J'aime transformer des problématiques techniques complexes en solutions fiables
 
 ### 📊 Statistiques GitHub
 
-*(Optionnel : Ces images se mettront à jour automatiquement avec vos données réelles dès que vous aurez remplacé "votre-pseudo" dans le lien)*
-
-![Les stats de mon GitHub](https://github-readme-stats.vercel.app/api?username=votre-pseudo&show_icons=true&theme=radical)
-![Vos langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=votre-pseudo&layout=compact&theme=radical)
+![Les stats de mon GitHub](https://github-readme-stats.vercel.app/api?username=Piushnt&show_icons=true&theme=radical)
+![Vos langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=Piushnt&layout=compact&theme=radical)
 
 ---
 
